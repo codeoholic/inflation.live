@@ -9,14 +9,15 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #fff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #000;
+  font-family: 'Nanum Gothic Coding', monospace;
 }
 
 .App-link {
@@ -30,4 +31,47 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.about-project{
+    font-size: calc(10px + 1.2vmin);
+    width: 50vw;
+}
+p{
+    margin: 0px;
+}
+.margin-top-20{
+    margin-top: 20px;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: #444;
+}
+.lets-start{
+    height: 5vmin;
+    pointer-events: none;
+    margin-top: 30px;
+}
+.app-section-one{
+    background-color: #764bb8;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #fff;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+.heading{
+    font-size: calc(10px + 5vmin);
+}
+.sub-heading{
+    font-size: calc(10px + 3vmin);
+}
+.state-name{
+    font-size: calc(10px + 10vmin);
 }
