@@ -43,12 +43,15 @@ p{
 .margin-top-20{
     margin-top: 20px;
 }
+.margin-top-40{
+    margin-top: 40px;
+}
 .margin-top-10{
     margin-top: 10px;
 }
 a{
     text-decoration: none;
-    color: #444;
+    color: #000;
 }
 .lets-start{
     height: 5vmin;
@@ -74,4 +77,23 @@ a{
 }
 .state-name{
     font-size: calc(10px + 10vmin);
+}
+.icon{
+    width: 60px;
+    height: 60px;
+}
+.inline{
+    display: inline-block;
+    padding: 10px;
+    /*width: 15vw;*/
+}
+.inline .about-project{
+    font-size: calc(10px + .7vmin);
+    width: auto;
+}
+.inline .sub-heading{
+    font-size: calc(10px + .4vmin);
+}
+.inline .sub-heading-large{
+    font-size: calc(10px + 3vmin);
 }
