@@ -80,9 +80,10 @@ function App() {
             </div>
             <div className="App">
                 <header className="app-section-one">
-                    <p className="about-project margin-top-10">SOURCE</p>
+                    <p className="about-project margin-top-10">Data Source</p>
                     <p className="about-project margin-top-10">GOVERNMENT OF INDIA<br/>MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION</p>
-                    <p className="about-project margin-top-40">hobby project by <a href="https://twitter.com/codeoholic" target="_blank" rel="noopener noreferrer">@codeoholic</a>.</p>
+                    <p className="fine_print margin-top-40">Hobby project by <a href="https://twitter.com/codeoholic" target="_blank" rel="noopener noreferrer">@codeoholic</a>.</p>
+                    <p className="fine_print margin-top-10">Source code <a href="https://github.com/codeoholic/inflation.live" target="_blank" rel="noopener noreferrer">github</a></p>
                 </header>
             </div>
         </div>
