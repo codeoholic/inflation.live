@@ -17,7 +17,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: #000;
-  font-family: 'Nanum Gothic Coding', monospace;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .App-link {
@@ -50,8 +50,8 @@ p{
     margin-top: 10px;
 }
 a{
-    text-decoration: none;
-    color: #000;
+    text-decoration: underline;
+    color: #fff;
 }
 .lets-start{
     height: 5vmin;
@@ -67,7 +67,7 @@ a{
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: #fff;
-    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 .heading{
     font-size: calc(10px + 5vmin);
