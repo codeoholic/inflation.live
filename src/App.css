@@ -97,3 +97,6 @@ a{
 .inline .sub-heading-large{
     font-size: calc(10px + 3vmin);
 }
+.fine_print{
+    font-size: 14px;
+}

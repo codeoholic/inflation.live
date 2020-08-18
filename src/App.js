@@ -66,6 +66,7 @@ function App() {
                             <p className="sub-heading margin-top-10">6.1% - 7.88%</p>
                         </div>
                     </div>
+                    <p className="fine_print margin-top-40">as on July 2020</p>
                 </header>
             </div>
             <div className="App">
